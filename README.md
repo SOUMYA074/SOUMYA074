@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me:
+- My Portfolio : [Visit Now](https://soumya074.github.io/soumya_Portfolio/)
 - 🔭 I’m currently focusing on **Web Development, Android Projects, and Smart Systems**.
 - 🌱 I’m learning **Data Science, ML, and AI**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
